@@ -1,4 +1,4 @@
-## Analyzing the Training Dynamics of Image Restoration Transformers: A Revisit to Layer Normalization
+## Analyzing the Training Dynamics of Image Restoration Transformers: <br> A Revisit to Layer Normalization
 [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)]([https://arxiv.org/abs/1234.56789](https://arxiv.org/pdf/2504.06629))
 
 MinKyu Lee, Sangeek Hyun, Woojin Jun, Hyunjun Kim, Jiwoo Chung, Jae-Pil Heo* \
@@ -6,7 +6,8 @@ Sungkyunkwan University \
 \*: Corresponding Author
 
 
-This is the official Repository of: Rethinking LayerNorm in Image Restoration Transformers \
+This is the official Repository of: \
+Analyzing the Training Dynamics of Image Restoration Transformers: A Revisit to Layer Normalization \
 ⭐ If you find our work helpful, please consider giving this repository a star. Thanks! 🤗
 
 ---
